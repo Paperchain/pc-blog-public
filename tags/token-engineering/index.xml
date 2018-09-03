@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Token engineering on Paperchain Blog</title>
+    <link>/tags/token-engineering/</link>
+    <description>Recent content in Token engineering on Paperchain Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Jun 2018 01:06:02 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/token-engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Pathway to Better Protocols — Announcing Token Engineering NYC</title>
+      <link>/post/2018-06-28-pathway-to-better-protocols-announcing-token-engineering-nyc-meetup/</link>
+      <pubDate>Thu, 28 Jun 2018 01:06:02 +1000</pubDate>
+      
+      <guid>/post/2018-06-28-pathway-to-better-protocols-announcing-token-engineering-nyc-meetup/</guid>
+      <description>&lt;p&gt;This meetup has been in the pipeline for a while and I’m glad to finally announce the kick-off for the NYC edition of the Token Engineering community meetup. We at Paperchain are very interested in exploring token models that can shift paradigms of data, commerce and services.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

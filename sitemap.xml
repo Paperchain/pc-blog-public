@@ -3,11 +3,255 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/docs/</loc>
+    <loc>/post/2018-08-24-introducing-protocol-canvas-designing-better-decentralized-protocols/</loc>
+    <lastmod>2018-08-24T09:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-08-12-paperchain-artists-what-we-listened-to-in-july-2018/</loc>
+    <lastmod>2018-08-12T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-07-05-paperchain-artists-what-we-listened-to-in-june-2018/</loc>
+    <lastmod>2018-07-05T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-06-28-pathway-to-better-protocols-announcing-token-engineering-nyc-meetup/</loc>
+    <lastmod>2018-06-28T01:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-06-05-paperchain-artists-what-we-listened-to-in-may-2018/</loc>
+    <lastmod>2018-06-06T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-06-01-noi-product-update-privacy-policy/</loc>
+    <lastmod>2018-06-01T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-04-14-paperchain-in-billboard-streaming-services-copyright-noi/</loc>
+    <lastmod>2018-04-14T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-04-07-paperchain-artists-what-we-listened-to-in-march-2018/</loc>
+    <lastmod>2018-04-06T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-04-06-structural-racism-and-royalty-distribution-music-modernization-act/</loc>
+    <lastmod>2018-04-06T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-03-04-paperchain-artists-what-we-listened-to-in-february-2018/</loc>
+    <lastmod>2018-03-04T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-02-05-paperchain-artists-what-we-listened-to-in-january-2018/</loc>
+    <lastmod>2018-02-05T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-12-22-paperchain-artists-what-we-listened-to-in-november-2017/</loc>
+    <lastmod>2017-12-21T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-11-15-paperchain-artists-what-we-listened-to-in-october-2017/</loc>
+    <lastmod>2017-11-15T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-10-21-paperchain-music-royalties-black-box-rightstech-summit/</loc>
+    <lastmod>2017-10-21T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-10-08-paperchain-artists-what-we-listened-to-in-september-2017/</loc>
+    <lastmod>2017-10-08T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-09-17-paperchain-artists-what-we-listened-to-in-august-2017/</loc>
+    <lastmod>2017-09-17T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-08-17-latest-in-music-technology-rights-royalties-data-blockchain/</loc>
+    <lastmod>2017-08-17T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-08-14-paperchain-artists-what-we-listened-to-in-july-2017/</loc>
+    <lastmod>2017-08-14T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-08-11-music-industry-guide-to-blockchain/</loc>
+    <lastmod>2017-08-11T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/australian-entrepreneur-daniel-dewar-to-tackle-2.5bn-in-music-royalty-black-boxes-with-music-technology-startup-paperchain/</loc>
+    <lastmod>2017-08-01T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/news/</loc>
+    <lastmod>2017-08-01T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/london-based-startup-paperchain-to-tackle-2.5bn-in-music-royalty-black-boxes/</loc>
+    <lastmod>2017-08-01T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/paperchain-invited-european-innovation-academy/</loc>
+    <lastmod>2017-07-14T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/data-analysis-of-the-apparent-fake-artists-of-spotify/</loc>
+    <lastmod>2017-07-12T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/paperchain-artists-what-we-listened-to-in-june-2017/</loc>
+    <lastmod>2017-07-08T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/latest-in-music-technology-rights-royalties-data-blockchain-july-04/</loc>
+    <lastmod>2017-07-04T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/paperchain-invited-wallifornia-music-tech-accelerator/</loc>
+    <lastmod>2017-06-26T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/paperchain-artists-what-we-are-listening-to-may-2017/</loc>
+    <lastmod>2017-06-16T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/latest-in-music-technology-blockchain-june-04/</loc>
+    <lastmod>2017-06-03T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-05-17-paperchain-founder-the-blockchain-show-podcast-interview/</loc>
+    <lastmod>2017-05-17T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-05-03-paperchain-artists-what-we-listened-to-in-april-2017/</loc>
+    <lastmod>2017-05-03T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-05-02-music-industry-silos-creates-unpaid-royalties/</loc>
+    <lastmod>2017-05-02T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-04-30-global-music-report-ifpi-2017/</loc>
+    <lastmod>2017-04-30T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-04-27-music-royalties-digital-rights-what-paperchain-has-been-reading-april-2017/</loc>
+    <lastmod>2017-04-27T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-04-06-does-the-music-industry-need-a-blockchain/</loc>
+    <lastmod>2017-04-06T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-04-05-paperchain-artists-what-we-listened-to-in-march/</loc>
+    <lastmod>2017-04-05T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-03-28-music-royalties-digital-rights-what-paperchain-has-been-reading/</loc>
+    <lastmod>2017-03-28T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-02-28-paperchain-artists-what-we-listened-to-in-february/</loc>
+    <lastmod>2017-02-28T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-02-22-list-of-female-vc/</loc>
+    <lastmod>2017-02-22T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-02-10-latest-in-music-tech-blockchain/</loc>
+    <lastmod>2017-02-10T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-01-16-latest-in-music-tech-blockchain/</loc>
+    <lastmod>2017-01-16T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-01-15-paperchain-company-update/</loc>
+    <lastmod>2017-01-15T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2016-12-22-latest-in-music-tech-blockchain/</loc>
+    <lastmod>2016-12-22T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2016-12-07-last-week-in-music-tech-blockchain/</loc>
+    <lastmod>2016-12-07T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2016-10-31-ethereum-hard-fork-notice/</loc>
+    <lastmod>2016-10-31T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2016-10-27-announcing-paperchain/</loc>
+    <lastmod>2016-10-27T21:06:02+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/billboard/</loc>
+    <lastmod>2018-04-14T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/black-box-royalties/</loc>
+    <lastmod>2018-06-01T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/blockchain/</loc>
+    <lastmod>2018-08-24T09:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -17,7 +261,110 @@
   </url>
   
   <url>
+    <loc>/tags/copyright/</loc>
+    <lastmod>2018-04-06T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cryptocurrency/</loc>
+    <lastmod>2018-08-24T09:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/danieldewar/</loc>
+    <lastmod>2018-04-06T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ethereum/</loc>
+    <lastmod>2018-08-24T09:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/features/</loc>
+    <lastmod>2017-08-01T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/music/</loc>
+    <lastmod>2018-08-12T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/musicmodernizationact/</loc>
+    <lastmod>2018-04-06T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/news/</loc>
+    <lastmod>2017-08-01T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nmpa/</loc>
+    <lastmod>2018-04-06T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/noi/</loc>
+    <lastmod>2018-06-01T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/paperchain/</loc>
+    <lastmod>2018-08-12T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
+    <lastmod>2018-08-24T09:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/playlist/</loc>
+    <lastmod>2018-08-12T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-08-24T09:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pxc/</loc>
+    <lastmod>2018-08-24T09:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/rahulrumalla/</loc>
+    <lastmod>2018-08-24T09:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/research/</loc>
+    <lastmod>2017-07-12T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/royalties/</loc>
+    <lastmod>2018-04-06T21:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -27,7 +374,32 @@
   </url>
   
   <url>
+    <loc>/tags/spotify/</loc>
+    <lastmod>2018-08-12T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
+    <lastmod>2018-04-14T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/technology/</loc>
+    <lastmod>2017-08-17T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/token-engineering/</loc>
+    <lastmod>2018-06-28T01:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tokens/</loc>
+    <lastmod>2018-08-24T09:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   

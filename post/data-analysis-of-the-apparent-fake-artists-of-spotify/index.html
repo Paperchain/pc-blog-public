@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='description' content='Earlier this week, the publication Music Business Worldwide(MBW) published a story about Spotify denying that they are play-listing fake artists. There was some harsh criticism and claims that Spotify was creating its own recordings and putting them on their playlists. What struck me the most about this story was that the statement about there being a large amount of music on Spotify that was created by fake artists and that the “artist name” under which these tracks are listed cannot actually be identified. A list of 50 artists were published on MBW.
+
+'>
+<meta name='theme-color' content='#6503ff'>
+
+<meta property='og:title' content='Data Analysis of the Apparent ‘Fake Artists’ of Spotify • Rahul Rumalla'>
+<meta property='og:description' content='Earlier this week, the publication Music Business Worldwide(MBW) published a story about Spotify denying that they are play-listing fake artists. There was some harsh criticism and claims that Spotify was creating its own recordings and putting them on their playlists. What struck me the most about this story was that the statement about there being a large amount of music on Spotify that was created by fake artists and that the “artist name” under which these tracks are listed cannot actually be identified. A list of 50 artists were published on MBW.
+
+'>
+<meta property='og:url' content='/post/data-analysis-of-the-apparent-fake-artists-of-spotify/'>
+<meta property='og:site_name' content='Paperchain Blog'>
+<meta property='og:type' content='article'><meta property='og:image' content='https://www.gravatar.com/avatar/60b059fb6f226a1ef5271f342753b53a?s=256'><meta property='article:section' content='post'><meta property='article:tag' content='research'><meta property='article:published_time' content='2017-07-12T21:06:02&#43;10:00'/><meta property='article:modified_time' content='2017-07-12T21:06:02&#43;10:00'/><meta name='twitter:card' content='summary'><meta name='twitter:site' content='@paperchainio'><meta name='twitter:creator' content='@danielkdewar'>
+
+<meta name="generator" content="Hugo 0.45.1" />
+
+  <title>Data Analysis of the Apparent ‘Fake Artists’ of Spotify • Rahul Rumalla</title>
+  <link rel='canonical' href='/post/data-analysis-of-the-apparent-fake-artists-of-spotify/'>
+  
+  
+  <link rel='icon' href='/favicon.ico'>
+<link rel='stylesheet' href='/assets/css/main.4267b3fa.css'>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Muli:300,400,400i,600,700" rel="stylesheet"><link rel='stylesheet' href='/css/custom.css'><style>
+:root{--color-accent:#6503ff;}
+</style>
+
+  
+
+</head>
+
+
+<body class='page type-post has-sidebar'>
+
+  <div class='site'>
+
+    <div id='sidebar' class='sidebar'>
+  <a class='screen-reader-text' href='#main-menu'>Skip to Main Menu</a>
+
+  <div class='container'><section class='widget widget-about sep-after'>
+  <header>
+    
+    <div class='logo'>
+      <a href='/'>
+        <img src='/images/logo.png'>
+      </a>
+    </div>
+    
+    <h2 class='title site-title '>
+    Paperchain Blog
+    </h2>
+    <div class='desc'>
+    Writing on Paperchain, blockchain, digital media and financial technology.
+  </div>
+  <div class='side-text'>
+  Thanks for checking out the Paperchain blog. This site is managed by Paperchain&#39;s community team. We&#39;re always looking for authors who want to contribute. Please contact us with your article pitch.
+</div>
+  <div class='side-menu'>
+    <ul>
+      <li><a href="https://paperchain.io">paperchain.io</a></li>
+    </ul>
+    </div>
+  </header>
+
+</section>
+</div>
+
+  <div class='sidebar-overlay'></div>
+</div>
+
+    <div class='main'>
+
+      <nav id='main-menu' class='menu main-menu' aria-label='Main Menu'>
+  <div class='container'>
+    <a class='screen-reader-text' href='#content'>Skip to Content</a>
+
+<button id='sidebar-toggler' class='sidebar-toggler' aria-controls='sidebar'>
+  <span class='screen-reader-text'>Toggle Sidebar</span>
+  <span class='open'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="3" y1="12" x2="21" y2="12" />
+  <line x1="3" y1="6" x2="21" y2="6" />
+  <line x1="3" y1="18" x2="21" y2="18" />
+  
+</svg>
+</span>
+  <span class='close'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="18" y1="6" x2="6" y2="18" />
+  <line x1="6" y1="6" x2="18" y2="18" />
+  
+</svg>
+</span>
+</button>
+    <ul></ul>
+  </div>
+</nav>
+
+      <main id='content'>
+
+
+<article lang='en' class='entry'>
+  
+  <header class='header entry-header'>
+  <div class='container sep-after'>
+    <div class='header-info'>
+      <h1 class='title'>Data Analysis of the Apparent ‘Fake Artists’ of Spotify</h1>
+      
+
+    </div>
+    
+<div class='entry-meta'>
+  <span class='posted-on'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+  <line x1="16" y1="2" x2="16" y2="6"/>
+  <line x1="8" y1="2" x2="8" y2="6"/>
+  <line x1="3" y1="10" x2="21" y2="10"/>
+  
+</svg>
+<span class='screen-reader-text'>Posted on </span>
+  <time class='entry-date' datetime='2017-07-12T21:06:02&#43;10:00'>2017, Jul 12</time>
+</span>
+
+  <span class='byline'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M21,21V20c0-2.76-4-5-9-5s-9,2.24-9,5v1"/>
+  <path d="M16,6.37A4,4,0,1,1,12.63,3,4,4,0,0,1,16,6.37Z"/>
+  
+</svg>
+<span class='screen-reader-text'> by </span><a href='/authors/rahulrumalla'>Rahul Rumalla</a></span>
+  
+<span class='reading-time'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <circle cx="12" cy="12" r="10"/>
+  <polyline points="12 6 12 12 15 15"/>
+  
+</svg>
+5 mins read
+</span>
+
+
+</div>
+
+
+  </div>
+</header>
+
+  
+
+  <div class='container entry-content single-post'>
+  <p>Earlier this week, the publication Music Business Worldwide(MBW) published a story about Spotify denying that they are play-listing fake artists. There was some harsh criticism and claims that Spotify was creating its own recordings and putting them on their playlists. What struck me the most about this story was that the statement about there being a large amount of music on Spotify that was created by fake artists and that the “artist name” under which these tracks are listed cannot actually be identified. A list of 50 artists were published on MBW.</p>
+
+<p></p>
+
+<p><img src="/img/spotify-fake-artists-paperchain-analysis-01.png" alt="15 of the 50 “fake artists” listed by MBW" /></p>
+
+<p>At <a href="https://paperchain.io/" target="_blank">Paperchain</a> <strong>we’re all about finding right owners of music</strong> and large part of what we are trying to do is identifying artists &amp; songwriters ( right owners in general ) even with minimal amount of information. Ultimately, we’re trying to <strong>solve the problem of unclaimed royalties</strong>, popularly referred to as the ‘black box’. I took this up a challenge and to test the extent of our systems’ capabilities. Surely enough, we were able to produce a comprehensive digital audit trail of these 50 “fake artists” and their music on Spotify by linking their recordings to the song compositions. Here’s how we did it and what we found …</p>
+
+<h2 id="following-the-breadcrumbs-digital-audit-trail">Following the Breadcrumbs — Digital Audit Trail</h2>
+
+<p>Given just the information we had i.e., the artist names, the first thing we produced was the list of tracks on Spotify that were under these names. To mainly fetch the ISRC code(s) that were associated with these tracks. For those who are unfamiliar, ISRC code is a unique code assigned to a music recording. It was important to fetch and validate this because the ISRC code reveals 2 pieces of very important information</p>
+
+<ul>
+<li>The country which the code was assigned from</li>
+<li>The ISRC agency that assigned it</li>
+</ul>
+
+<p><br></p>
+
+<h4 id="example-1">EXAMPLE 1</h4>
+
+<p>Our first example is on the artist named <strong>ANA OLGICA</strong> that appears on MBW’s list. The artist has 2 tracks listed on Spotify, both piano based instrumental tracks that appear of the highly popular ‘Peaceful Piano’ playlist. The track titled <strong>ATOMS</strong> has the ISRC code <strong>SEXGF16157</strong>. The first 2 letters of the ISRC code is the country code i.e., <strong>SE = Sweden</strong>. And the next 3 letters indicate the ISRC agency that assigned them i.e., represented by the code <strong>XGF</strong>. ISRC Agencies are members of The International Federation of the Phonographic Industry(IFPI), responsible for assigning unique ISRC codes to recordings. Each agency themselves are given a unique 3 character code like the above. We were able to find out that the alphanumeric code XGF corresponds to a company named <strong>Catfish Recording</strong>. A quick google search reveals that there are some artists in Stockholm, Sweden under this record label but there is absolutely no link to the website of this business. Another strange thing is that this artist Ana Olgica has no tangible identity. No facebook page nor a soundcloud profile. However, the tracks are distributed on multiple platforms for purchase.</p>
+
+<p><img src="/img/spotify-fake-artists-paperchain-analysis-02.png" alt="" /></p>
+
+<p>Now that we had the recording information, our next step was to link it to the <strong>composition copyright</strong> to fetch the music publishers and writers involved. We were able to dig further into this using Paperchain’s proprietary technologies to link up the composition to the recording. This song had <strong>T920356326</strong> as the ISWC code (a code used to uniquely identify the composition part of the song or a ‘work’) and it was listed under 2 writers and no publisher i.e., <strong>BOSTROM FREDRIK HAKAN</strong> and <strong>NORDENSTROM JESPER OLOF</strong>. Both of these writers are actually indeed swedish music producers and composers (Source ASCAP). The data also reveals that they are affiliated to the Swedish collection society <strong>STIM</strong>.</p>
+
+<h4 id="example-2">EXAMPLE 2</h4>
+
+<p>This track titled <strong>NORDIC LIGHT</strong> is under the artist named <strong>CLAY EDWARDS</strong>. This is an 3 minute instrumental track, released as a <strong>single</strong>. <a href="https://www.last.fm/music/Clay+Edwards/+wiki" target="_blank">Clay Edwards seems to be gospel music artists hailing from Kansas</a>.</p>
+
+<p><img src="/img/spotify-fake-artists-paperchain-analysis-03.png" alt="Nordic Light by Clay Edwards on Spotify" /></p>
+
+<p>This track has the ISRC code as <strong>SE4RG1600705</strong> (again SE = Sweden ). <strong>4RG</strong> in this case corresponds to <a href="http://hellofirefly.com/" target="_blank">Firefly Entertainment AB</a>, a Swedish music publishing and television company with representatives and music studios in Karlstad, Gothenburg and Stockholm. The song was attributed with the ISWC code <strong>T9203563262</strong> and the writers associated <strong>NORBERG ROBERT PAR</strong> and <strong>WIGELIUS ANDERS SVEN</strong>. The publisher in this case is also listed as <strong>FIREFLY</strong> — quite possibly the company listed above. All of the 3 parties mentioned also are registered under the Swedish collection society <strong>STIM</strong>.</p>
+
+<h2 id="summary">SUMMARY</h2>
+
+<p>For the 50 artists mentioned in MBW, we found 197 recordings on Spotify, of which 96 have ISRCs assigned from a Swedish agency. We were able to connect them to 693 songwriters and publishers. Only 69 of them were affiliated to the Swedish PRO STIM while most of them were affiliated to the American society ASCAP and German society GEMA. Some of these songs are also published under major publishers like Universal Music Publishing.</p>
+
+<p><img src="/img/spotify-fake-artists-paperchain-analysis-04.png" alt="Recordings with their metadata" /></p>
+
+<p>Recordings with their metadata</p>
+
+<p><img src="/img/spotify-fake-artists-paperchain-analysis-05.png" alt="Compositions with their metadata" /></p>
+
+<p>Compositions with their metadata</p>
+
+<h2 id="conclusions">CONCLUSIONS</h2>
+
+<p>While there is definitive indication that a lot of this activity pointing to Swedish music producers creating instrumental music under pseudo artist names and coincidentally on playlists with high traction, there is certainly no indication in the digital trail that Spotify is a right owner of any kind. Which means, they are NOT generating royalties for themselves on these tracks. Additionally, this practice (rather strategy) of creating music under pseudonyms also seem to be popular in countries outside Sweden too.
+What is however controversial is that these popular mood-based playlists (peaceful piano, songs for sleeping etc) are indeed owned by Spotify. And these artists do appear on them. This combined with the movement of AI-driven movement (Source: MusicAlly) of generating playlists AND music itself, can possibly significantly impact the royalties distributed to regular labels, artists and other right owners.
+Feel free to reach out to me on rrumalla(at)paperchain.io to access the data sample or for further research or even discussion. Would love to hear your thoughts.</p>
+</div>
+
+  
+<footer class='entry-footer'>
+  <div class='container sep-before'><div class='tags'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M20.59,13.41l-7.17,7.17a2,2,0,0,1-2.83,0L2,12V2H12l8.59,8.59A2,2,0,0,1,20.59,13.41Z"/>
+  <line x1="7" y1="7" x2="7" y2="7"/>
+  
+</svg>
+<span class='screen-reader-text'>Tags: </span><a class='tag' href='/tags/research/'>Research</a></div>
+
+  </div>
+</footer>
+
+
+</article>
+
+<nav class='entry-nav'>
+  <div class='container'><div class='prev-entry sep-before'>
+      <a href='/post/paperchain-artists-what-we-listened-to-in-june-2017/'>
+        <span aria-hidden='true'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="20" y1="12" x2="4" y2="12"/>
+  <polyline points="10 18 4 12 10 6"/>
+  
+</svg>
+ Previous</span>
+        <span class='screen-reader-text'>Previous post: </span>Paperchain Listens, June 2017</a>
+    </div><div class='next-entry sep-before'>
+      <a href='/post/paperchain-invited-european-innovation-academy/'>
+        <span class='screen-reader-text'>Next post: </span>Paperchain founders taking part in the European Innovation Academy Extreme Entrepreneurship program in Portugal<span aria-hidden='true'>Next <svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="4" y1="12" x2="20" y2="12"/>
+  <polyline points="14 6 20 12 14 18"/>
+  
+</svg>
+</span>
+      </a>
+    </div></div>
+</nav>
+
+
+
+
+      </main>
+
+      <footer id='footer' class='footer'>
+        <div class='container sep-before'><section class='widget widget-social_menu sep-after'><nav aria-label='Social Menu'>
+    <ul><li>
+        <a href='https://github.com/paperchain' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Github account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <i class="fab fa-github" aria-hidden="true"></i>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://facebook.com/paperchainio' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Facebook account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <i class="fab fa-facebook-f" aria-hidden="true"></i>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://twitter.com/paperchainio' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Twitter account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <i class="fab fa-twitter" aria-hidden="true"></i>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='mailto:hello@paperchain.io' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Contact via Email</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <i class="fas fa-envelope" aria-hidden="true"></i>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://www.linkedin.com/company/paperchain.io' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Linkedin account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <i class="fab fa-linkedin-in" aria-hidden="true"></i>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://t.me/paperchain' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Telegram account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <i class="fab fa-telegram-plane" aria-hidden="true"></i>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://plus.google.com/&#43;paperchainapp' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Google_plus account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <i class="fab fa-google-plus-g" aria-hidden="true"></i>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://www.reddit.com/r/paperchain' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Reddit account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <i class="fab fa-reddit-alien" aria-hidden="true"></i>
+  
+</svg>
+</a>
+      </li></ul>
+  </nav>
+</section><div class='copyright'>
+  <p> &copy; 2018 Paperchain </p>
+</div>
+
+        </div>
+      </footer>
+
+    </div>
+  </div><script>window.__public_path__='\/assets\/js\/'</script>
+
+<script src='/assets/js/main.59f76c44.js'></script><script src='/js/custom.js'></script>
+
+</body>
+
+</html>
+

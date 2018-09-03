@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethereum on Paperchain Blog</title>
+    <link>/tags/ethereum/</link>
+    <description>Recent content in Ethereum on Paperchain Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 24 Aug 2018 09:06:02 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/ethereum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing the Protocol Canvas — Designing Better Decentralized Protocols</title>
+      <link>/post/2018-08-24-introducing-protocol-canvas-designing-better-decentralized-protocols/</link>
+      <pubDate>Fri, 24 Aug 2018 09:06:02 +1000</pubDate>
+      
+      <guid>/post/2018-08-24-introducing-protocol-canvas-designing-better-decentralized-protocols/</guid>
+      <description>&lt;p&gt;The Protocol Canvas is a means of mapping primitives between actors within a decentralized protocol. Derived from the &lt;a href=&#34;https://strategyzer.com/canvas/business-model-canvas&#34; target=&#34;_blank&#34;&gt;Business Model Canvas&lt;/a&gt;, the Protocol Canvas is designed for decentralized systems and is a fully &lt;a href=&#34;https://github.com/Paperchain/protocol-canvas&#34; target=&#34;_blank&#34;&gt;open-sourced&lt;/a&gt; effort.&lt;/p&gt;
+
+&lt;p&gt;The purpose of creating the Protocol Canvas is to help individuals and organizations capture their protocol design in a standardized way and to contribute towards the newly-realized discipline of &lt;a href=&#34;http://tokenegineering.net/&#34; target=&#34;_blank&#34;&gt;Token Engineering&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
