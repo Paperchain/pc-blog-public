@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2018-09-15-update-on-paperchain-communications/</loc>
+    <lastmod>2018-09-15T09:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2018-08-24-introducing-protocol-canvas-designing-better-decentralized-protocols/</loc>
     <lastmod>2018-08-24T09:06:02+10:00</lastmod>
   </url>
@@ -251,7 +256,7 @@
   
   <url>
     <loc>/tags/blockchain/</loc>
-    <lastmod>2018-08-24T09:06:02+10:00</lastmod>
+    <lastmod>2018-09-15T09:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -268,13 +273,13 @@
   
   <url>
     <loc>/tags/cryptocurrency/</loc>
-    <lastmod>2018-08-24T09:06:02+10:00</lastmod>
+    <lastmod>2018-09-15T09:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/danieldewar/</loc>
-    <lastmod>2018-04-06T21:06:02+10:00</lastmod>
+    <lastmod>2018-09-15T09:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -328,7 +333,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-08-24T09:06:02+10:00</lastmod>
+    <lastmod>2018-09-15T09:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -340,7 +345,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-08-24T09:06:02+10:00</lastmod>
+    <lastmod>2018-09-15T09:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
