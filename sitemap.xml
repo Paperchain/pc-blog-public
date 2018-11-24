@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2018-11-03-paperchain-artists-what-we-listened-to-in-october-2018/</loc>
+    <lastmod>2018-11-03T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-10-03-paperchain-artists-what-we-listened-to-in-september-2018/</loc>
+    <lastmod>2018-10-03T21:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2018-09-30-ethereum-digital-scarcity-what-is-a-successful-dapp/</loc>
     <lastmod>2018-09-30T09:06:02+10:00</lastmod>
   </url>
@@ -10,6 +20,11 @@
   <url>
     <loc>/post/2018-09-15-update-on-paperchain-communications/</loc>
     <lastmod>2018-09-15T09:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-09-03-paperchain-artists-what-we-listened-to-in-august-2018/</loc>
+    <lastmod>2018-09-03T21:06:02+10:00</lastmod>
   </url>
   
   <url>
@@ -302,7 +317,7 @@
   
   <url>
     <loc>/tags/music/</loc>
-    <lastmod>2018-08-12T21:06:02+10:00</lastmod>
+    <lastmod>2018-11-03T21:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -332,25 +347,25 @@
   
   <url>
     <loc>/authors/paperchain/</loc>
-    <lastmod>2018-08-12T21:06:02+10:00</lastmod>
+    <lastmod>2018-11-03T21:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-09-30T09:06:02+10:00</lastmod>
+    <lastmod>2018-11-03T21:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/playlist/</loc>
-    <lastmod>2018-08-12T21:06:02+10:00</lastmod>
+    <lastmod>2018-11-03T21:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-09-30T09:06:02+10:00</lastmod>
+    <lastmod>2018-11-03T21:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -385,7 +400,7 @@
   
   <url>
     <loc>/tags/spotify/</loc>
-    <lastmod>2018-08-12T21:06:02+10:00</lastmod>
+    <lastmod>2018-11-03T21:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
