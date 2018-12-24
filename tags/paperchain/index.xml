@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paperchain on Paperchain Blog</title>
+    <link>/tags/paperchain/</link>
+    <description>Recent content in Paperchain on Paperchain Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 23 Dec 2018 21:06:02 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/paperchain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paperchain Founders Note 2018.</title>
+      <link>/post/2018-12-24-paperchain-annual-note-2018/</link>
+      <pubDate>Sun, 23 Dec 2018 21:06:02 +1000</pubDate>
+      
+      <guid>/post/2018-12-24-paperchain-annual-note-2018/</guid>
+      <description>Paperchain isn&amp;rsquo;t the product or company it was 12 months ago.
+We published an update earlier in the year on the direction the company was taking.
+From our initial focus on metadata and royalty payments, we saw a larger need across all media verticals to address systemic problems related to payment expediency and cost of capital.
+Over the past two years, blockchain technology and cryptocurrencies moved to the forefront of technology and finance media.</description>
+    </item>
+    
+  </channel>
+</rss>

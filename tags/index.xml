@@ -65,9 +65,18 @@
     </item>
     
     <item>
+      <title>Founders</title>
+      <link>/tags/founders/</link>
+      <pubDate>Sun, 23 Dec 2018 21:06:02 +1000</pubDate>
+      
+      <guid>/tags/founders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Music</title>
       <link>/tags/music/</link>
-      <pubDate>Sat, 03 Nov 2018 21:06:02 +1000</pubDate>
+      <pubDate>Mon, 03 Dec 2018 21:06:02 +1000</pubDate>
       
       <guid>/tags/music/</guid>
       <description></description>
@@ -110,9 +119,27 @@
     </item>
     
     <item>
+      <title>Note</title>
+      <link>/tags/note/</link>
+      <pubDate>Sun, 23 Dec 2018 21:06:02 +1000</pubDate>
+      
+      <guid>/tags/note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paperchain</title>
+      <link>/tags/paperchain/</link>
+      <pubDate>Sun, 23 Dec 2018 21:06:02 +1000</pubDate>
+      
+      <guid>/tags/paperchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Playlist</title>
       <link>/tags/playlist/</link>
-      <pubDate>Sat, 03 Nov 2018 21:06:02 +1000</pubDate>
+      <pubDate>Mon, 03 Dec 2018 21:06:02 +1000</pubDate>
       
       <guid>/tags/playlist/</guid>
       <description></description>
@@ -148,7 +175,7 @@
     <item>
       <title>Spotify</title>
       <link>/tags/spotify/</link>
-      <pubDate>Sat, 03 Nov 2018 21:06:02 +1000</pubDate>
+      <pubDate>Mon, 03 Dec 2018 21:06:02 +1000</pubDate>
       
       <guid>/tags/spotify/</guid>
       <description></description>
