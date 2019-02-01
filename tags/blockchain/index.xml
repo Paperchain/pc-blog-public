@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blockchain on Paperchain Blog</title>
+    <title>blockchain on Paperchain Blog</title>
     <link>/tags/blockchain/</link>
-    <description>Recent content in Blockchain on Paperchain Blog</description>
+    <description>Recent content in blockchain on Paperchain Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 30 Sep 2018 09:06:02 +1000</lastBuildDate>
     
@@ -18,9 +18,7 @@
       <guid>/post/2018-09-30-ethereum-digital-scarcity-what-is-a-successful-dapp/</guid>
       <description>&lt;p&gt;I’ve been thinking about something Tony Sheng wrote recently on &lt;a href=&#34;https://www.tonysheng.com/red-ocean&#34; target=&#34;_blank&#34;&gt;smart contract protocols and red ocean&lt;/a&gt; theory.&lt;/p&gt;
 
-&lt;p&gt;With the drive in speculative markets around cryptocurrencies, we saw an ever growing list of projects become funded, make promises, and for the large part continue to remain in incubation.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;With the drive in speculative markets around cryptocurrencies, we saw an ever growing list of projects become funded, make promises, and for the large part continue to remain in incubation.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -29,9 +27,7 @@
       <pubDate>Sat, 15 Sep 2018 09:06:02 +1000</pubDate>
       
       <guid>/post/2018-09-15-update-on-paperchain-communications/</guid>
-      <description>&lt;p&gt;This was originally shared on the Paperchain &lt;a href=&#34;https://t.me/paperchain&#34; target=&#34;_blank&#34;&gt;Telegram group chat&lt;/a&gt; and we wanted to re-share for wider audiences.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;This was originally shared on the Paperchain &lt;a href=&#34;https://t.me/paperchain&#34; target=&#34;_blank&#34;&gt;Telegram group chat&lt;/a&gt; and we wanted to re-share for wider audiences.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -42,9 +38,7 @@
       <guid>/post/2018-08-24-introducing-protocol-canvas-designing-better-decentralized-protocols/</guid>
       <description>&lt;p&gt;The Protocol Canvas is a means of mapping primitives between actors within a decentralized protocol. Derived from the &lt;a href=&#34;https://strategyzer.com/canvas/business-model-canvas&#34; target=&#34;_blank&#34;&gt;Business Model Canvas&lt;/a&gt;, the Protocol Canvas is designed for decentralized systems and is a fully &lt;a href=&#34;https://github.com/Paperchain/protocol-canvas&#34; target=&#34;_blank&#34;&gt;open-sourced&lt;/a&gt; effort.&lt;/p&gt;
 
-&lt;p&gt;The purpose of creating the Protocol Canvas is to help individuals and organizations capture their protocol design in a standardized way and to contribute towards the newly-realized discipline of &lt;a href=&#34;http://tokenegineering.net/&#34; target=&#34;_blank&#34;&gt;Token Engineering&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;The purpose of creating the Protocol Canvas is to help individuals and organizations capture their protocol design in a standardized way and to contribute towards the newly-realized discipline of &lt;a href=&#34;http://tokenegineering.net/&#34; target=&#34;_blank&#34;&gt;Token Engineering&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,9 +47,7 @@
       <pubDate>Thu, 28 Jun 2018 01:06:02 +1000</pubDate>
       
       <guid>/post/2018-06-28-pathway-to-better-protocols-announcing-token-engineering-nyc-meetup/</guid>
-      <description>&lt;p&gt;This meetup has been in the pipeline for a while and I’m glad to finally announce the kick-off for the NYC edition of the Token Engineering community meetup. We at Paperchain are very interested in exploring token models that can shift paradigms of data, commerce and services.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;This meetup has been in the pipeline for a while and I’m glad to finally announce the kick-off for the NYC edition of the Token Engineering community meetup. We at Paperchain are very interested in exploring token models that can shift paradigms of data, commerce and services.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -64,9 +56,7 @@
       <pubDate>Fri, 01 Jun 2018 21:06:02 +1000</pubDate>
       
       <guid>/post/2018-06-01-noi-product-update-privacy-policy/</guid>
-      <description>&lt;p&gt;We&amp;rsquo;ve been quiet for some time and we wanted to give everyone a quick update on what we’ve been working on, particularly those who took part in in our black box royalties research.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;We&amp;rsquo;ve been quiet for some time and we wanted to give everyone a quick update on what we’ve been working on, particularly those who took part in in our black box royalties research.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -75,7 +65,7 @@
       <pubDate>Thu, 17 Aug 2017 21:06:02 +1000</pubDate>
       
       <guid>/post/2017-08-17-latest-in-music-technology-rights-royalties-data-blockchain/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>Here’s How You Know Mic-Coalition “Shiv Act” Is About Screwing Songwriters Not Transparency But here is where the bill is particular cruel. If a songwriter does not report information on a single cover, the way the bill is written, the songwriter then loses their rights for EVERY recording. I don’t think this is an accident. This actually creates a mechanism for depriving every songwriter of legal fees and statutory damages, on every song ever written.</description>
     </item>
     
     <item>
@@ -86,9 +76,7 @@
       <guid>/post/2017-08-11-music-industry-guide-to-blockchain/</guid>
       <description>&lt;p&gt;There’s a lot of discussion in the music industry right now around transparency and rights management. This is in tandem with a discussion on how this would be implemented, and at the moment that discussion is being led by blockchain.&lt;/p&gt;
 
-&lt;p&gt;As it is a relatively new technology, there’s not many who understand the technology and why it would be suggested as a solution for many of the music industry’s rights data challenges.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;As it is a relatively new technology, there’s not many who understand the technology and why it would be suggested as a solution for many of the music industry’s rights data challenges.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -97,7 +85,7 @@
       <pubDate>Tue, 04 Jul 2017 21:06:02 +1000</pubDate>
       
       <guid>/post/latest-in-music-technology-rights-royalties-data-blockchain-july-04/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>Delaware House Passes Historic Blockchain Regulation The state of Delaware has passed amendments to state law that make explicit the right to trade stocks on a blockchain, according to multiple sources familiar with the matter. Crammed in at the last minute before the state House went into recess, the measures were part of a broader series of amendments that legally recognized any number of records being stored on a blockchain. Read more</description>
     </item>
     
     <item>
@@ -106,7 +94,7 @@
       <pubDate>Sat, 03 Jun 2017 21:06:02 +1000</pubDate>
       
       <guid>/post/latest-in-music-technology-blockchain-june-04/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>Streaming generates vast amounts of royalty data, and not all collecting societies are coping The growth of streaming has meant a vast increase in the amount of data being supplied to collecting societies in order to calculate the royalty payments due to songwriters and music publishers. Some are processing this data better than others, but issues with conflicting information in some society databases only makes things more difficult. Read more</description>
     </item>
     
     <item>
@@ -115,7 +103,10 @@
       <pubDate>Wed, 17 May 2017 21:06:02 +1000</pubDate>
       
       <guid>/post/2017-05-17-paperchain-founder-the-blockchain-show-podcast-interview/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>Paperchain Founder Daniel Dewar was recently interviewed by Steve Anderson on The Blockchain Show. The episode is now live and can be listened to via the below links.
+Android user? Click here.
+iPhone user? Click here.
+Listen on the web? Click here.</description>
     </item>
     
     <item>
@@ -124,7 +115,8 @@
       <pubDate>Thu, 27 Apr 2017 21:06:02 +1000</pubDate>
       
       <guid>/post/2017-04-27-music-royalties-digital-rights-what-paperchain-has-been-reading-april-2017/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>Spotify, Apple Music, Tidal Paying $1.6 Million a DAY In Major Label Guarantees
+On-demand streaming services Spotify, Apple Music, Tidal, Deezer, Rhapsody, and others collectively paid nearly $1.6 million in guaranteed payments a day to just three major recording labels last quarter. Total ‘minimum guarantees’ topped $144 million over the 91 day period, a figure that likely doesn’t include preferred advertising inventory and other juicy perks. That is on top of royalties for actual plays, which more than quintupled that figure.</description>
     </item>
     
     <item>
@@ -133,9 +125,7 @@
       <pubDate>Thu, 06 Apr 2017 21:06:02 +1000</pubDate>
       
       <guid>/post/2017-04-06-does-the-music-industry-need-a-blockchain/</guid>
-      <description>&lt;p&gt;As awareness moves beyond BitCoin and cryptocurrencies to distributed ledgers, blockchain is fast-becoming the dominant (theoretical) solution to challenges facing many industries. No more so than the music industry—an industry plagued with inefficient and outdated data practices that interferes with the creation and maintenance of reliable data records, resulting in unpaid royalty revenue to artists, publishers and labels.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;As awareness moves beyond BitCoin and cryptocurrencies to distributed ledgers, blockchain is fast-becoming the dominant (theoretical) solution to challenges facing many industries. No more so than the music industry—an industry plagued with inefficient and outdated data practices that interferes with the creation and maintenance of reliable data records, resulting in unpaid royalty revenue to artists, publishers and labels.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -144,7 +134,8 @@
       <pubDate>Tue, 28 Mar 2017 21:06:02 +1000</pubDate>
       
       <guid>/post/2017-03-28-music-royalties-digital-rights-what-paperchain-has-been-reading/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>Share Of Revenue Music Streamers Paid Licensing Orgs Fell 27% In 2016, Says New Study
+Music streaming revenue jumped $56.% in 2016. Subscription revenue grew 93% and captured 61.9% of market revenue (U.S.) in 2016, while ad billings ramped 19.5%, to $1.7 billion. Revenue may be growing, but the percentage of it passed on to creators is dropping. An estimated 34.8% of total streaming music service revenues went to licensing organizations in 2016, compared to 47.</description>
     </item>
     
     <item>
@@ -153,7 +144,8 @@
       <pubDate>Fri, 10 Feb 2017 21:06:02 +1000</pubDate>
       
       <guid>/post/2017-02-10-latest-in-music-tech-blockchain/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>The US Music Industry Crossed A Threshold In 2016
+Nielsen recently released its Year-End Music Report for 2016 and it details a pattern of music consumption in the United States that has never been seen before. Album sales in every format save one are down from 2015. Downloads of digital songs are down. And yet, overall music consumption was up 3%. The reason? On-demand streaming took over the music business. Read more</description>
     </item>
     
     <item>
@@ -162,7 +154,10 @@
       <pubDate>Mon, 16 Jan 2017 21:06:02 +1000</pubDate>
       
       <guid>/post/2017-01-16-latest-in-music-tech-blockchain/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>Distributed Ledgers: Shared control, not shared data
+In the context of distributed ledgers, I have noticed that many commentators and consultants confuse shared control of data with the sharing of data itself. The difference is crucial, and this common simplification misses the most important aspect of distributed ledgers. Read more
+Blockchain For Music: The Promise and Problems
+Know who owns rights to what is one of the greatest challenges currently faced by the music industry as well as those involved in it.</description>
     </item>
     
     <item>
@@ -171,7 +166,10 @@
       <pubDate>Thu, 22 Dec 2016 21:06:02 +1000</pubDate>
       
       <guid>/post/2016-12-22-latest-in-music-tech-blockchain/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>Blockchain’s Key Economic Impact: Verifying Transactions and Operating a Network
+When a distributed ledger is tied to a native cryptographic token, marketplaces can function without the need of intermediaries, lowering networking costs. Bitcoin for the first time in history demonstrated value could be transferred reliably between untrusting parties without the need of an intermediary. Read more
+OMG, Ethereum Is So Hard Forked
+Basically we think any consternation about recent (intentional and unintentional) forks or their effects is misplaced.</description>
     </item>
     
     <item>
@@ -180,7 +178,10 @@
       <pubDate>Wed, 07 Dec 2016 21:06:02 +1000</pubDate>
       
       <guid>/post/2016-12-07-last-week-in-music-tech-blockchain/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>The Changing World of Music Royalties
+Today, the music industry generates over $160 billion in worldwide revenue, less than ten percent of which is from the sale of recorded music. As the industry evolves, new revenue sources continue to be created. Read more
+Blockchain in Financial Services — Hype or Reality?
+Why are Financial Services firms interested in Blockchain? First they see the potential for cost reduction in processes like trade settlement and reconciliation.</description>
     </item>
     
     <item>
@@ -189,9 +190,7 @@
       <pubDate>Mon, 31 Oct 2016 21:06:02 +1000</pubDate>
       
       <guid>/post/2016-10-31-ethereum-hard-fork-notice/</guid>
-      <description>&lt;p&gt;Last Friday, core developers for the Ethereum met to discuss possible courses of action to counter recent DDOS attacks on the network that were exploiting the platforms code logic.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Last Friday, core developers for the Ethereum met to discuss possible courses of action to counter recent DDOS attacks on the network that were exploiting the platforms code logic.&lt;/p&gt;</description>
     </item>
     
   </channel>

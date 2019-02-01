@@ -138,7 +138,7 @@
   </url>
   
   <url>
-    <loc>/post/news/</loc>
+    <loc>/post/2017-08-01-indian-entrepreneur-rahul-rumalla-to-tackle-2.5bn-in-music-royalty-black-boxes-with-music-technology-startup-paperchain/</loc>
     <lastmod>2017-08-01T21:06:02+10:00</lastmod>
   </url>
   
@@ -273,6 +273,33 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-12-23T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-12-23T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/billboard/</loc>
     <lastmod>2018-04-14T21:06:02+10:00</lastmod>
     <priority>0</priority>
@@ -287,11 +314,6 @@
   <url>
     <loc>/tags/blockchain/</loc>
     <lastmod>2018-09-30T09:06:02+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -368,19 +390,13 @@
   </url>
   
   <url>
-    <loc>/tags/paperchain/</loc>
-    <lastmod>2018-12-23T21:06:02+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/paperchain/</loc>
     <lastmod>2018-12-23T21:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/tags/paperchain/</loc>
     <lastmod>2018-12-23T21:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
@@ -388,12 +404,6 @@
   <url>
     <loc>/tags/playlist/</loc>
     <lastmod>2018-12-03T21:06:02+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2018-12-23T21:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -422,19 +432,8 @@
   </url>
   
   <url>
-    <loc>/series/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/spotify/</loc>
     <lastmod>2018-12-03T21:06:02+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-04-14T21:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   

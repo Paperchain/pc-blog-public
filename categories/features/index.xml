@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Features on Paperchain Blog</title>
+    <title>features on Paperchain Blog</title>
     <link>/categories/features/</link>
-    <description>Recent content in Features on Paperchain Blog</description>
+    <description>Recent content in features on Paperchain Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 01 Aug 2017 21:06:02 +1000</lastBuildDate>
     
@@ -12,18 +12,16 @@
     
     <item>
       <title>Indian entrepreneur Rahul Rumalla to tackle $2.5bn in music royalty black boxes with music technology startup Paperchain</title>
-      <link>/post/news/</link>
+      <link>/post/2017-08-01-indian-entrepreneur-rahul-rumalla-to-tackle-2.5bn-in-music-royalty-black-boxes-with-music-technology-startup-paperchain/</link>
       <pubDate>Tue, 01 Aug 2017 21:06:02 +1000</pubDate>
       
-      <guid>/post/news/</guid>
+      <guid>/post/2017-08-01-indian-entrepreneur-rahul-rumalla-to-tackle-2.5bn-in-music-royalty-black-boxes-with-music-technology-startup-paperchain/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;When a streaming service or performing rights organisation is unable to identify the rights owner to pay royalties to, unpaid royalties are held in “royalty black boxes”&lt;/li&gt;
 &lt;li&gt;The global value of these royalty black boxes is estimated to be $2.5bn&lt;/li&gt;
 &lt;li&gt;Paperchain has developed a product to connect rights owners to their unpaid royalties&lt;/li&gt;
 &lt;li&gt;Indian entrepreneur Rahul Rumalla is basing Paperchain out of London to focus on the large publishing and recording industry opportunities in the US, UK and Europe&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;/ul&gt;</description>
     </item>
     
   </channel>
