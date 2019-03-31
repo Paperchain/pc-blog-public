@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2019-03-31-hiring-data-analyst-contractor/</loc>
+    <lastmod>2019-03-31T10:06:02+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2019-03-07-paperchain-techstars-announcement-beta-program-music-industry/</loc>
     <lastmod>2019-03-07T10:06:02+10:00</lastmod>
   </url>
@@ -294,13 +299,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-03-07T10:06:02+10:00</lastmod>
+    <lastmod>2019-03-31T10:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-03-07T10:06:02+10:00</lastmod>
+    <lastmod>2019-03-31T10:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -351,6 +356,12 @@
   </url>
   
   <url>
+    <loc>/tags/data-science/</loc>
+    <lastmod>2019-03-31T10:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/ethereum/</loc>
     <lastmod>2018-09-30T09:06:02+10:00</lastmod>
     <priority>0</priority>
@@ -364,13 +375,19 @@
   
   <url>
     <loc>/tags/fintech/</loc>
-    <lastmod>2019-03-07T10:06:02+10:00</lastmod>
+    <lastmod>2019-03-31T10:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/founders/</loc>
     <lastmod>2018-12-23T21:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/jobs/</loc>
+    <lastmod>2019-03-31T10:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -418,7 +435,7 @@
   
   <url>
     <loc>/authors/paperchain/</loc>
-    <lastmod>2019-03-07T10:06:02+10:00</lastmod>
+    <lastmod>2019-03-31T10:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
