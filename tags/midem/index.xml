@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>events on Paperchain Blog</title>
-    <link>/tags/events/</link>
-    <description>Recent content in events on Paperchain Blog</description>
+    <title>midem on Paperchain Blog</title>
+    <link>/tags/midem/</link>
+    <description>Recent content in midem on Paperchain Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 16 May 2019 10:06:02 +1000</lastBuildDate>
     
-	<atom:link href="/tags/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/midem/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,19 +23,6 @@
 &lt;p&gt;Paperchain will feature at this year’s &lt;a href=&#34;https://midem.com&#34; target=&#34;_blank&#34;&gt;Midem&lt;/a&gt;, taking place in Cannes, from 4-7 June.&lt;/p&gt;
 
 &lt;p&gt;If you&amp;rsquo;re going to Midem this year — please connect with Dan (dan@paperchain.io) and Dave (dave@paperchain.io) to organize a time to meet.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Paperchain in Nashville for Music Biz 2019. Say hello!</title>
-      <link>/post/2019-05-06-paperchain-at-music-biz-2019/</link>
-      <pubDate>Sun, 05 May 2019 10:06:02 +1000</pubDate>
-      
-      <guid>/post/2019-05-06-paperchain-at-music-biz-2019/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/music-biz-2019.jpg&#34; alt=&#34;music biz 2019&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In Nashville for Music Biz 2019?&lt;/p&gt;
-
-&lt;p&gt;Connect with Paperchain co-founder and CRO Dave Tomaselli and say hi! We&amp;rsquo;ll be in town Sunday through Wednesday.&lt;/p&gt;</description>
     </item>
     
   </channel>
