@@ -5,10 +5,21 @@
     <link>/authors/paperchain/</link>
     <description>Recent content in paperchain on Paperchain Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 May 2019 10:06:02 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2019 10:06:02 +1000</lastBuildDate>
     
 	<atom:link href="/authors/paperchain/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hiring Data Engineer (Go, GCP, SQL, Python). Remote OK.</title>
+      <link>/post/2019-08-05-hiring-data-engineer-remote-ok/</link>
+      <pubDate>Mon, 05 Aug 2019 10:06:02 +1000</pubDate>
+      
+      <guid>/post/2019-08-05-hiring-data-engineer-remote-ok/</guid>
+      <description>&lt;p&gt;Paperchain is an early-stage startup building real-time revenue forecasting and financial tools for the digital media industry using unique applications of data science and blockchain technology.&lt;/p&gt;
+
+&lt;p&gt;We’re looking for a Data Engineer to come in and help build our data pipeline foundations at Paperchain. This is a contractor role with the plan to transition into a full-time role. The core team functions remotely with HQ being in New York and our CTO in Berlin.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Paperchain Selected as 2019 Midemlab finalist.</title>
