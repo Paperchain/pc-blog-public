@@ -5,10 +5,25 @@
     <link>/authors/paperchain/</link>
     <description>Recent content in paperchain on Paperchain Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Aug 2019 10:06:02 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2019 10:06:02 +1000</lastBuildDate>
     
 	<atom:link href="/authors/paperchain/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Paperchain, Centrifuge, Maker Foundation Perform World First, Real-Time Advance of $60,000 USD in Spotify Revenue Using Decentralized Finance</title>
+      <link>/post/2019-09-18-paperchain-perform-world-first-real-time-spotify-advance-using-defi/</link>
+      <pubDate>Wed, 18 Sep 2019 10:06:02 +1000</pubDate>
+      
+      <guid>/post/2019-09-18-paperchain-perform-world-first-real-time-spotify-advance-using-defi/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;At DeFi Summit London, &lt;a href=&#34;https://paperchain.io&#34; target=&#34;_blank&#34;&gt;Paperchain&lt;/a&gt; and &lt;a href=&#34;https:centrifuge.io&#34; target=&#34;_blank&#34;&gt;Centrifuge&lt;/a&gt; leveraged decentralized finance protocols to advance $60,000 USD in Spotify revenue to a Paperchain record label customer;&lt;/li&gt;
+&lt;li&gt;While media consumption has shifted to streaming and on demand models, the revenue and payments process hasn’t changed;&lt;/li&gt;
+&lt;li&gt;Revenue from a Spotify stream can take 3 months to reach a record label; 6 months to reach an artist. $100 billion USD sits trapped in 90 day accounts receivables across the wider digital media industry;&lt;/li&gt;
+&lt;li&gt;The advance was issued live on stage using Centrifuge’ Tinlake finance application, and was originated in less than 30 minutes at a transaction cost of less than $3 USD;&lt;/li&gt;
+&lt;li&gt;Decentralized Finance (DeFi) has the potential to disrupt traditional financing and secured lending products through programmatic, data-driven asset creation, and low origination costs;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>Hiring Data Engineer (Go, GCP, SQL, Python). Remote OK.</title>

@@ -73,6 +73,15 @@
     </item>
     
     <item>
+      <title>defi</title>
+      <link>/tags/defi/</link>
+      <pubDate>Wed, 18 Sep 2019 10:06:02 +1000</pubDate>
+      
+      <guid>/tags/defi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ethereum</title>
       <link>/tags/ethereum/</link>
       <pubDate>Sun, 30 Sep 2018 09:06:02 +1000</pubDate>
@@ -132,6 +141,15 @@
       <pubDate>Thu, 07 Mar 2019 10:06:02 +1000</pubDate>
       
       <guid>/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music streaming</title>
+      <link>/tags/music-streaming/</link>
+      <pubDate>Wed, 18 Sep 2019 10:06:02 +1000</pubDate>
+      
+      <guid>/tags/music-streaming/</guid>
       <description></description>
     </item>
     
@@ -210,7 +228,7 @@
     <item>
       <title>press</title>
       <link>/tags/press/</link>
-      <pubDate>Thu, 07 Mar 2019 10:06:02 +1000</pubDate>
+      <pubDate>Wed, 18 Sep 2019 10:06:02 +1000</pubDate>
       
       <guid>/tags/press/</guid>
       <description></description>
@@ -246,7 +264,7 @@
     <item>
       <title>spotify</title>
       <link>/tags/spotify/</link>
-      <pubDate>Fri, 01 Feb 2019 21:06:02 +1000</pubDate>
+      <pubDate>Wed, 18 Sep 2019 10:06:02 +1000</pubDate>
       
       <guid>/tags/spotify/</guid>
       <description></description>
