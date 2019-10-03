@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>podcast on Paperchain Blog</title>
+    <link>/tags/podcast/</link>
+    <description>Recent content in podcast on Paperchain Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Oct 2019 10:06:02 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Listen now — Paperchain founder Daniel Dewar interviewed on The Future of What podcast</title>
+      <link>/post/2019-10-01-paperchain-founder-featured-future-of-what-podcast-portia-sabin/</link>
+      <pubDate>Tue, 01 Oct 2019 10:06:02 +1000</pubDate>
+      
+      <guid>/post/2019-10-01-paperchain-founder-featured-future-of-what-podcast-portia-sabin/</guid>
+      <description>&lt;p&gt;On the latest episode of The Future of What podcast, Paperchain founder Daniel Dewar talks with Music Biz Association&amp;rsquo;s Portia Sabin about our effort to speed up payments to labels and artists.&lt;/p&gt;
+
+&lt;iframe src=&#34;https://open.spotify.com/embed-podcast/episode/6QvrWjS7TC5fIcfLbLUX5U&#34; width=&#34;100%&#34; height=&#34;232&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Listen on Spotify or &lt;a href=&#34;http://hyperurl.co/tfow&#34; target=&#34;_blank&#34;&gt;listen here&lt;/a&gt; where all good podcasts are available.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
