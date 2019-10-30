@@ -5,10 +5,30 @@
     <link>/tags/ethereum/</link>
     <description>Recent content in ethereum on Paperchain Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 30 Sep 2018 09:06:02 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2019 10:06:02 +1000</lastBuildDate>
     
 	<atom:link href="/tags/ethereum/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How We Worked With Centrifuge And The Maker Foundation To Advance $60,000 Worth Of Spotify Revenue</title>
+      <link>/post/2019-10-28-how-we-advanced-60000-spotify-revenue-to-record-label/</link>
+      <pubDate>Wed, 30 Oct 2019 10:06:02 +1000</pubDate>
+      
+      <guid>/post/2019-10-28-how-we-advanced-60000-spotify-revenue-to-record-label/</guid>
+      <description>&lt;h1 id=&#34;tl-dr&#34;&gt;tl;dr&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;At DeFi Summit London, Paperchain worked with Centrifuge and the Maker Foundation (“Maker”) to advance $60,000 USD in Spotify revenue to a Paperchain record label customer;&lt;/li&gt;
+&lt;li&gt;While media consumption has shifted to streaming and on demand models, the revenue and payments process hasn’t changed;&lt;/li&gt;
+&lt;li&gt;Revenue from a Spotify stream can take 3 months to reach a record label; 6 months to reach an artist. $100 billion USD sits trapped in 90 day accounts receivables across the wider digital media industry;&lt;/li&gt;
+&lt;li&gt;The advance was issued live on stage using Centrifuge’s Tinlake finance application, and was originated in less than 30 minutes at a transaction cost of less than $3 USD;&lt;/li&gt;
+&lt;li&gt;Decentralized Finance (DeFi) has the potential to disrupt traditional financing and secured lending products through programmatic, data-driven asset creation, and low origination costs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Author: David Gogel (Paperchain)&lt;br&gt;
+Editor: Daniel Dewar (Paperchain)&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Ethereum &amp; Digital Scarcity in 2018 — Finding the Acquisition Equilibrium</title>
