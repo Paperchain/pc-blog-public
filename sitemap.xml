@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/2020-03-10-job-post-finance-lead-defi-institutional/</loc>
+    <lastmod>2020-03-10T15:27:11+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2019-10-28-how-we-advanced-60000-spotify-revenue-to-record-label/</loc>
     <lastmod>2019-11-04T10:06:02+10:00</lastmod>
   </url>
@@ -328,13 +333,19 @@
   </url>
   
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2020-03-10T15:27:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-11-04T10:06:02+10:00</lastmod>
+    <lastmod>2020-03-10T15:27:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
