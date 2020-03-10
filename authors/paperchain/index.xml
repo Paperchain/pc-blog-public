@@ -5,10 +5,19 @@
     <link>/authors/paperchain/</link>
     <description>Recent content in paperchain on Paperchain Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 04 Nov 2019 10:06:02 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2020 15:27:11 +0000</lastBuildDate>
     
 	<atom:link href="/authors/paperchain/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Job Post: Finance Lead (DeFi/Institutional)</title>
+      <link>/blog/2020-03-10-job-post-finance-lead-defi-institutional/</link>
+      <pubDate>Tue, 10 Mar 2020 15:27:11 +0000</pubDate>
+      
+      <guid>/blog/2020-03-10-job-post-finance-lead-defi-institutional/</guid>
+      <description>&lt;p&gt;Paperchain is the easiest and fastest way for creators to access their streaming revenue. We’re creating the future of media payments through our unique learning model that prices media streaming activity in near real-time and data integrations with the world’s largest streaming services, such as Spotify, Apple and YouTube.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>How We Worked With Centrifuge And The Maker Foundation To Advance $60,000 Worth Of Spotify Revenue</title>
