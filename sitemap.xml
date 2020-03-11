@@ -328,6 +328,15 @@
   </url>
   
   <url>
+    <loc>/authors/daniel-dewar/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
     <priority>0</priority>
   </url>
