@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>changelog on Paperchain Blog</title>
+    <link>/tags/changelog/</link>
+    <description>Recent content in changelog on Paperchain Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 22 Mar 2020 23:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/changelog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paperchain Product Update - March 23, 2020</title>
+      <link>/post/2020-03-27-paperchain-product-update-march-23-2020/</link>
+      <pubDate>Sun, 22 Mar 2020 23:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-03-27-paperchain-product-update-march-23-2020/</guid>
+      <description> Improving Integration Workflow This week we&amp;rsquo;ve updated our integrations workflow with clear and outlined instructions in order for our users to activate it. We currently support YouTube, Fuga, Apple Music, Spotify, Merlin, Pandora etc.
+Other fixes and improvements  Added Terms of Service to Sign-Up form Fixed duplication of chart entries in catalog charts  </description>
+    </item>
+    
+    <item>
+      <title>Paperchain Product Update - March 16, 2020</title>
+      <link>/post/2020-03-26-paperchain-product-update-march-16-2020/</link>
+      <pubDate>Mon, 16 Mar 2020 21:30:09 +0000</pubDate>
+      
+      <guid>/post/2020-03-26-paperchain-product-update-march-16-2020/</guid>
+      <description>New Sign-up &amp;amp; Sign-in Forms Touched up our Sign-Up and Sign-In forms to make it more intuitive. Users can now pick their account type being &amp;lsquo;Artist&amp;rsquo;, &amp;lsquo;Record Label&amp;rsquo; or &amp;lsquo;Distributor&amp;rsquo;. We will add more improvements to this in the coming weeks.
+Issuing Request for an Advance from the Dashboard Users can now request for an advance upto a pre-qualified amount, right from their Paperchain dashboard. This takes into account all of the upcoming receivables an account may have.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2020-03-27-paperchain-product-update-march-23-2020/</loc>
+    <lastmod>2020-03-22T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-03-26-paperchain-product-update-march-16-2020/</loc>
+    <lastmod>2020-03-16T21:30:09+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2020-03-10-job-post-finance-lead-defi-institutional/</loc>
     <lastmod>2020-03-10T15:27:11+00:00</lastmod>
   </url>
@@ -354,13 +364,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-03-10T15:27:11+00:00</lastmod>
+    <lastmod>2020-03-22T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-11-04T10:06:02+10:00</lastmod>
+    <lastmod>2020-03-22T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -389,6 +399,12 @@
   <url>
     <loc>/tags/blockchain/</loc>
     <lastmod>2019-11-04T10:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/changelog/</loc>
+    <lastmod>2020-03-22T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -496,7 +512,7 @@
   
   <url>
     <loc>/tags/news/</loc>
-    <lastmod>2017-08-01T21:06:02+10:00</lastmod>
+    <lastmod>2020-03-22T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -519,14 +535,14 @@
   </url>
   
   <url>
-    <loc>/tags/paperchain/</loc>
-    <lastmod>2018-12-23T21:06:02+10:00</lastmod>
+    <loc>/authors/paperchain/</loc>
+    <lastmod>2020-03-10T15:27:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/paperchain/</loc>
-    <lastmod>2020-03-10T15:27:11+00:00</lastmod>
+    <loc>/tags/paperchain/</loc>
+    <lastmod>2018-12-23T21:06:02+10:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -551,6 +567,12 @@
   <url>
     <loc>/tags/press/</loc>
     <lastmod>2019-09-18T10:06:02+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/product/</loc>
+    <lastmod>2020-03-22T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -37,6 +37,15 @@
     </item>
     
     <item>
+      <title>changelog</title>
+      <link>/tags/changelog/</link>
+      <pubDate>Sun, 22 Mar 2020 23:00:00 +0000</pubDate>
+      
+      <guid>/tags/changelog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>copyright</title>
       <link>/tags/copyright/</link>
       <pubDate>Fri, 06 Apr 2018 21:06:02 +1000</pubDate>
@@ -174,7 +183,7 @@
     <item>
       <title>news</title>
       <link>/tags/news/</link>
-      <pubDate>Tue, 01 Aug 2017 21:06:02 +1000</pubDate>
+      <pubDate>Sun, 22 Mar 2020 23:00:00 +0000</pubDate>
       
       <guid>/tags/news/</guid>
       <description></description>
@@ -249,6 +258,15 @@
       <pubDate>Wed, 18 Sep 2019 10:06:02 +1000</pubDate>
       
       <guid>/tags/press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>product</title>
+      <link>/tags/product/</link>
+      <pubDate>Sun, 22 Mar 2020 23:00:00 +0000</pubDate>
+      
+      <guid>/tags/product/</guid>
       <description></description>
     </item>
     
