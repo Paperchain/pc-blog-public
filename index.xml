@@ -5,10 +5,23 @@
     <link>/</link>
     <description>Recent content on Paperchain Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 22 Mar 2020 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 10:06:02 +1000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How Paperchain Works Remote: Our guide to remote working</title>
+      <link>/post/2020-04-05-how-paperchain-works-remote-our-guide-to-remove-working/</link>
+      <pubDate>Sun, 05 Apr 2020 10:06:02 +1000</pubDate>
+      
+      <guid>/post/2020-04-05-how-paperchain-works-remote-our-guide-to-remove-working/</guid>
+      <description>&lt;p&gt;On Mar 21 I created a new page in our company wiki called &amp;ldquo;How we work remote&amp;rdquo;. This was the opening note I shared with my team.&lt;/p&gt;
+
+&lt;p&gt;We had already began limited office hours in New York, and at the time New York was discussing a wider lockdown. While we had been a distributed team, with people in New York, Berlin, and India, now we were fully distributed even within New York. The Paperchain team works from Manhattan, Staten Island, Long Island, Poconos, Berlin and Delhi.&lt;/p&gt;
+
+&lt;p&gt;This guide is a work in progress as we refine our remote work practices.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Paperchain Product Update - March 23, 2020</title>

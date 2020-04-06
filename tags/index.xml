@@ -183,7 +183,7 @@
     <item>
       <title>news</title>
       <link>/tags/news/</link>
-      <pubDate>Sun, 22 Mar 2020 23:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2020 10:06:02 +1000</pubDate>
       
       <guid>/tags/news/</guid>
       <description></description>
@@ -303,6 +303,15 @@
       <pubDate>Mon, 04 Nov 2019 10:06:02 +1000</pubDate>
       
       <guid>/tags/spotify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>team</title>
+      <link>/tags/team/</link>
+      <pubDate>Sun, 05 Apr 2020 10:06:02 +1000</pubDate>
+      
+      <guid>/tags/team/</guid>
       <description></description>
     </item>
     
